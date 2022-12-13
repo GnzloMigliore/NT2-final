@@ -21,6 +21,7 @@ Sigue estas instrucciones para enviar el examen:
 
 ## Enunciado
 Carlos es dueño de muchos vehículos los cuales le cuesta mantener un control de todo. Él necesita una manera de mantener el control de todos sus autos.
+Podes usar esta collection: https://www.getpostman.com/collections/e41d48ce76a2a8844c8c
 
 ## Requerimientos
 Tu aplicación debería ser capaz de completar las siguientes tareas:
